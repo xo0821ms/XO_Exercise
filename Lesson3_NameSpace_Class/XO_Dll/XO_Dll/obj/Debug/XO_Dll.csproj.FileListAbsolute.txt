@@ -1,0 +1,5 @@
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\bin\Debug\XO_Dll.dll
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\bin\Debug\XO_Dll.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\obj\Debug\XO_Dll.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\obj\Debug\XO_Dll.dll
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\obj\Debug\XO_Dll.pdb

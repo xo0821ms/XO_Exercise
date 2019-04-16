@@ -1,0 +1,10 @@
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\bin\Debug\BlackBoxUsing.exe.config
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\bin\Debug\BlackBoxUsing.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\bin\Debug\BlackBoxUsing.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\bin\Debug\XO_Dll.dll
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\bin\Debug\XO_Dll.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\obj\Debug\BlackBoxUsing.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\obj\Debug\BlackBoxUsing.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\obj\Debug\BlackBoxUsing.csproj.CopyComplete
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\obj\Debug\BlackBoxUsing.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\BlackBoxUsing\BlackBoxUsing\obj\Debug\BlackBoxUsing.pdb

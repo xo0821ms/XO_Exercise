@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoxUsing", "WhiteBoxUsing\WhiteBoxUsing.csproj", "{5A6706BF-01C1-40AC-A01A-26D7737C9239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XO_Dll", "D:\save\CodeSave\C_Sharp_Class\Lesson3_NameSpace_Class\XO_Dll\XO_Dll\XO_Dll.csproj", "{AF6194CB-8F33-4EDA-AB7B-843851AB0BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6706BF-01C1-40AC-A01A-26D7737C9239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6706BF-01C1-40AC-A01A-26D7737C9239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6706BF-01C1-40AC-A01A-26D7737C9239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6706BF-01C1-40AC-A01A-26D7737C9239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6194CB-8F33-4EDA-AB7B-843851AB0BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6194CB-8F33-4EDA-AB7B-843851AB0BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6194CB-8F33-4EDA-AB7B-843851AB0BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6194CB-8F33-4EDA-AB7B-843851AB0BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED027394-F7C7-456A-B9AF-37E015FC437D}
+	EndGlobalSection
+EndGlobal
