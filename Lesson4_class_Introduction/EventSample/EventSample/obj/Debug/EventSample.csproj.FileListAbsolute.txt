@@ -1,0 +1,15 @@
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\bin\Debug\EventSample.exe.config
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\bin\Debug\EventSample.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\bin\Debug\EventSample.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\MainWindow.g.cs
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\App.g.cs
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample_MarkupCompile.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample_MarkupCompile.lref
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\MainWindow.baml
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.g.resources
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.Properties.Resources.resources
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.csproj.GenerateResource.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson4_class_Introduction\EventSample\EventSample\obj\Debug\EventSample.pdb
