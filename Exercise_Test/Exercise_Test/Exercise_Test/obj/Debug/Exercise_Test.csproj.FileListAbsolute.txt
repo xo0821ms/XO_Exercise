@@ -1,0 +1,7 @@
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\bin\Debug\Exercise_Test.exe.config
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\bin\Debug\Exercise_Test.exe
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\bin\Debug\Exercise_Test.pdb
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\obj\Debug\Exercise_Test.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\obj\Debug\Exercise_Test.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\obj\Debug\Exercise_Test.exe
+D:\save\CodeSave\C_Sharp_Class\Exercise_Test\Exercise_Test\Exercise_Test\obj\Debug\Exercise_Test.pdb
