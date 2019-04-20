@@ -13,7 +13,7 @@ namespace variable_Stack_Heap
         static void Main(string[] args)
         {
 
-            SSS();   
+            BadGuy.MyUnsafeCode();
         
 
         }
@@ -25,9 +25,7 @@ namespace variable_Stack_Heap
             Console.WriteLine(res);
             Console.WriteLine(result);
         }
-
-        
-
+      
        static void GetMyType()//得到具體類型方式
         {
             Type myType = typeof(Form);
@@ -54,9 +52,26 @@ namespace variable_Stack_Heap
             myVar = "hahaha";
             Console.WriteLine(myVar);
         }
-
     }
 
+    class BadGuy
+    {
+        public static void BadMethod()
+        {
+
+            int x = 100;
+            BadMethod();
+        }
+
+        public static void MyUnsafeCode()
+        {
+            unsafe//project→propertise→Build→allow unsafe code
+            {
+                int* p = stackalloc int[9999999];
+            }
+        }
+
+    }
 
     
 
