@@ -1,0 +1,7 @@
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\bin\Debug\variable_Stack_Heap.exe.config
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\bin\Debug\variable_Stack_Heap.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\bin\Debug\variable_Stack_Heap.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\obj\Debug\variable_Stack_Heap.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\obj\Debug\variable_Stack_Heap.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\obj\Debug\variable_Stack_Heap.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\variable_Stack_Heap\variable_Stack_Heap\obj\Debug\variable_Stack_Heap.pdb

@@ -1,0 +1,2 @@
+dynamic 是C#對弱類型/動態類型的模仿，在動態時使用，高級內容之後看的懂再研究。
+先win+R叫出搜尋再perfmon打開性能監視器(Performance Monitor)影片(1:12:35)

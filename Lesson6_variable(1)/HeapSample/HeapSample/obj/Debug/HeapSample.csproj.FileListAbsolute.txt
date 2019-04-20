@@ -1,0 +1,15 @@
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\bin\Debug\HeapSample.exe.config
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\bin\Debug\HeapSample.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\bin\Debug\HeapSample.pdb
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\MainWindow.g.cs
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\App.g.cs
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample_MarkupCompile.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample_MarkupCompile.lref
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\MainWindow.baml
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.g.resources
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.Properties.Resources.resources
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.csproj.GenerateResource.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.exe
+D:\save\CodeSave\C_Sharp_Class\Lesson6_variable(1)\HeapSample\HeapSample\obj\Debug\HeapSample.pdb
