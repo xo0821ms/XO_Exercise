@@ -1,0 +1,14 @@
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.exe.config
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.exe
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.pdb
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.exe
+D:\save\CodeSave\ForRaryark\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.pdb
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.exe.config
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.exe
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\bin\Debug\StrangeTreasure.pdb
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.csprojResolveAssemblyReference.cache
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.csproj.CoreCompileInputs.cache
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.exe
+D:\save\CodeSave\Collection\StrangeTreasure\StrangeTreasure\obj\Debug\StrangeTreasure.pdb
